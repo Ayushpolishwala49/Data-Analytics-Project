@@ -1,7 +1,9 @@
 # 🚖 Ola-Bookings-Dashboard  
 ![Ola Dashboard](https://raw.githubusercontent.com/Ayushpolishwala49/Data-Analytics-Project/main/Ola.png)
 ## Overview
-This dataset and analysis focus on identifying the reasons behind ride cancellations and trends associated with customer and driver behavior. The data was cleaned and processed from multiple sources, followed by the application of SQL queries to derive insights. The visualizations were created using Power BI to better understand the key factors influencing cancellations.
+This dataset and analysis focus on identifying the reasons behind ride cancellations and trends associated with customer and driver behavior. The data was cleaned and processed from multiple sources, followed by the application of SQL queries to derive insights. The visualizations were created using Power BI to better understand the key factors influencing cancellations.  
+
+This project was completed with the help of youtube channel Topversity.  
 
 ## Project Process
 Data Cleaning and Processing:
