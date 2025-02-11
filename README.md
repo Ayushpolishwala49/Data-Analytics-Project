@@ -10,30 +10,37 @@ The data was extracted and cleaned to handle missing values and outliers. Variou
 ## SQL Queries
 A series of SQL queries were applied to perform operations such as:
 
-Aggregating data based on different attributes (e.g., ride cancellations, driver ratings).
+-> Aggregating data based on different attributes (e.g., ride cancellations, driver ratings).
 
-Analyzing trends over time (e.g., peak hours, most common cancellation reasons).
+-> Analyzing trends over time (e.g., peak hours, most common cancellation reasons).
+
 -> Identifying key patterns in customer and driver behaviors.
 
 ## Power BI Visualization
 Power BI was used to visualize the findings, such as:
 
 -> Ride cancellation trends across various time periods.
+
 -> Customer and driver ratings correlation with cancellation rates.
+
 -> Booking patterns and payment method insights.
 
 ## Key Insights:
 The analysis identified significant patterns in cancellations, including:
 
 -> Higher cancellation rates during specific hours of the day.
+
 -> Increased cancellations due to specific vehicle types or payment methods.
+
 -> Correlations between driver ratings and cancellation likelihood.
 
 ## Reason for Cancellations
 The primary reasons for cancellations were attributed to:
 
 -> Issues with pickup locations.
+
 -> Customer changes in booking preferences.
+
 -> Driver unavailability.
 
 # Results
@@ -41,8 +48,11 @@ By analyzing the cancellation patterns and implementing a new strategy to addres
 
 # Files Included
 Dataset (Excel): Contains the ride booking data with details such as booking ID, status, customer ID, vehicle type, and ride ratings.
+
 SQL Queries: A file containing SQL queries used to analyze the data and extract insights.
+
 Power BI Visualizations: Screenshots/PDFs of the dashboards created to visualize trends and insights.
+
 README File: A description of the project, insights, and SQL queries.
 
 ## 📂 Detailed Report  
