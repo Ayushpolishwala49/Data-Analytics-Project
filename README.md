@@ -10,8 +10,8 @@ The data was extracted and cleaned to handle missing values and outliers. Variou
 ## SQL Queries
 A series of SQL queries were applied to perform operations such as:
 
--> Aggregating data based on different attributes (e.g., ride cancellations, driver ratings).
--> Analyzing trends over time (e.g., peak hours, most common cancellation reasons).
+Aggregating data based on different attributes (e.g., ride cancellations, driver ratings).
+Analyzing trends over time (e.g., peak hours, most common cancellation reasons).
 -> Identifying key patterns in customer and driver behaviors.
 
 ## Power BI Visualization
